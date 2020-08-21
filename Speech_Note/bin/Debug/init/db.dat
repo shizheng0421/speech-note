@@ -1,0 +1,6 @@
+Database='db_speechnote';
+Data Source='localhost';
+User Id='root';
+Password='950421';
+charset = 'utf8';
+pooling = true;

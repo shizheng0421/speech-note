@@ -1,0 +1,11 @@
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\bin\Release\Speech_Note.exe.config
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Interop.SpeechLib.dll
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Speech_Note.csproj.ResolveComReference.cache
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\bin\Release\Speech_Note.exe
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\bin\Release\Speech_Note.pdb
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\bin\Release\Interop.SpeechLib.dll
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Speech_Note.Form1.resources
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Speech_Note.Properties.Resources.resources
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Speech_Note.csproj.GenerateResource.Cache
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Speech_Note.exe
+E:\TheWayOfCoder\20170202Speech_Note\Speech_Note\Speech_Note\obj\Release\Speech_Note.pdb
